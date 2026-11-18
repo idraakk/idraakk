@@ -1,8 +1,6 @@
-<a href="https://idraakk.github.io/Portfolio_Website/"><img align="right" width="148" src="https://idraakk.github.io/Portfolio_Website/portfolio-character.png" alt="Portrait from Idraak’s portfolio"></a>
-
-# Idraak Mohd Khan
-
-**Software Engineer · Backend, AWS & Agentic AI**
+<p align="center">
+  <a href="https://idraakk.github.io/Portfolio_Website/"><img src="assets/profile-banner.png" width="960" alt="Idraak Mohd Khan. Software Engineer focused on backend, AWS and agentic AI."></a>
+</p>
 
 I build Java backend services on AWS and AI tools that retrieve information and take action.
 
@@ -12,7 +10,7 @@ I build Java backend services on AWS and AI tools that retrieve information and 
 
 [`products.md`](#products) · [`projects.tsx`](#projects) · [`experience.json`](#experience) · [`skills.ts`](#skills) · [`education.yml`](#education)
 
-<br clear="right">
+[![GitHub activity over 26 weeks through November 19, 2026. 36 public repositories, 961 contributions, and 86 active days.](assets/github-activity.png)](https://github.com/idraakk?tab=overview#year-list-container)
 
 ## Products
 
