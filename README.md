@@ -114,6 +114,4 @@ I built a study assistant for YouTube videos and uploaded lectures. It made lect
 - **Jaypee Institute of Information Technology, Noida** · B.Tech. in Electronics and Communication Engineering · 2022–2026
 - **Indian Institute of Technology Madras** · BS Foundation Program in Data Science and Programming · 2023–2024
 
-**Competitive programming** · [Codeforces Expert (1716)](https://codeforces.com/profile/Zaxas) · [LeetCode](https://leetcode.com/u/aaron1april/)
-
 [Open the full portfolio ↗](https://idraakk.github.io/Portfolio_Website/)
