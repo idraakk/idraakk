@@ -8,9 +8,11 @@ I build Java backend services on AWS and AI tools that retrieve information and 
 
 [<kbd>Open portfolio ↗</kbd>](https://idraakk.github.io/Portfolio_Website/) &nbsp; [Résumé](https://idraakk.github.io/Portfolio_Website/resume.pdf) · [LinkedIn](https://www.linkedin.com/in/idraak) · [Email](mailto:idraakmk@gmail.com)
 
-[`products.md`](#products) · [`projects.tsx`](#projects) · [`experience.json`](#experience) · [`skills.ts`](#skills) · [`education.yml`](#education)
+[`products.md`](#products) · [`projects.tsx`](#projects) · [`experience.json`](#experience) · [`skills.ts`](#skills) · [`education.yml`](#education) · [`contact.sh`](#contact)
 
-[![GitHub activity over 26 weeks through November 19, 2026. 36 public repositories, 961 contributions, and 86 active days.](assets/github-activity.png)](https://github.com/idraakk?tab=overview#year-list-container)
+![Profile views](https://komarev.com/ghpvc/?username=idraakk&label=Profile%20views&color=1f594b&style=flat-square)
+
+![GitHub activity over 26 weeks through November 19, 2026. 36 public repositories, 961 contributions, and 86 active days.](assets/github-activity.png)
 
 ## Products
 
@@ -112,4 +114,8 @@ I built a study assistant for YouTube videos and uploaded lectures. It made lect
 - **Jaypee Institute of Information Technology, Noida** · B.Tech. in Electronics and Communication Engineering · 2022–2026
 - **Indian Institute of Technology Madras** · BS Foundation Program in Data Science and Programming · 2023–2024
 
-[Open the full portfolio ↗](https://idraakk.github.io/Portfolio_Website/)
+## Contact
+
+[![See what I’ve built. Open the portfolio.](assets/profile-footer.png)](https://idraakk.github.io/Portfolio_Website/)
+
+[Email](mailto:idraakmk@gmail.com) · [LinkedIn](https://www.linkedin.com/in/idraak)
